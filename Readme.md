@@ -28,3 +28,5 @@
 - a új verzió megszületése:
 
     > git commit -m "first commit"
+
+- távoli repo létrehozása (GitHub)
