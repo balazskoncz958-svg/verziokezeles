@@ -42,4 +42,6 @@
 
     > git push -u origin master
 
--
+- további push:
+
+    > git push
