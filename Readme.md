@@ -29,4 +29,17 @@
 
     > git commit -m "first commit"
 
+
+
+
 - távoli repo létrehozása (GitHub)
+
+- a helyi repo és a GitHub repo összekapcsolása, úgy hogy PAT történjen a hitelesítés(token@):
+
+    > git remote add origin https://token@github.com/.....
+
+- az első push:
+
+    > git push -u origin master
+
+-
